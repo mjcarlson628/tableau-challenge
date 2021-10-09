@@ -1,0 +1,10 @@
+Analysis consists of every September 2021 New York City CitiBike trip lasting between one minute and one week, for a total of 3,217,363 individual trips.
+
+Visualizations:
+Location of all CitiBike stations
+Most popular stations to start and end a trip
+Monthly, daily, and hourly usage patterns
+
+The most common start and end points are around the busiest parts of town, while the least commonly used stations are mainly across the river.
+Stations are placed at frequent distance intervals throughout the city. Overall trips tended to start in the city center and end more toward the outer edges.
+More trips took place on weekdays than weekends. Weekdays had hourly usage peaks near the beginning and end of the work day. On weekends there was a smoother increase to the peak hours in the afternoon.
